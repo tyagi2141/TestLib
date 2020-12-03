@@ -1,0 +1,3 @@
+include ':CustomeCalender'
+include ':app'
+rootProject.name = "TestLib"
